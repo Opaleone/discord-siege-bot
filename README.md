@@ -1,4 +1,6 @@
-# discord-siege-bot
+# Rainbow 6 Siege Discord Bot
+
+## Description
 This bot is a team generator for 5v5 custom games with other features to aid the custom 5v5 process.
 
 ## Installation
@@ -15,6 +17,9 @@ This bot is used to help ease the process in creating custom 5v5 matches in Rain
 
 * ?nitro - tells us if our buddy Hemmie49 will get nitro'ed this round.
 * ?hatch - tells Hemmie49 whether to drop the hatch or not.
+
+## Credits
+N/A
 
 ## License
 For license information, please refer to License in main branch
