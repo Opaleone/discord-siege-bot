@@ -43,6 +43,10 @@ async def on_message(message):
     if message.author == client.user:
         return
 
+    if message.channel.id != 1013154771248611428:
+        # handle if it's in the wrong channel here, or don't
+        return
+
     if msg.startswith('?teams'):
 
         people = msg.split(',')
