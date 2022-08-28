@@ -11,7 +11,7 @@ This bot is used to help ease the process in creating custom 5v5 matches in Rain
 * ?map roll - this will randomly select a map from the ranked pool.
 * ?ranked or unranked - this will reply with ranked or unranked randomly.
 
-####for personal use:
+#### For personal use:
 
 * ?nitro - tells us if our buddy Hemmie49 will get nitro'ed this round.
 * ?hatch - tells Hemmie49 whether to drop the hatch or not.
