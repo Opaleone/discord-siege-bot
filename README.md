@@ -4,7 +4,7 @@
 This bot is a team generator for 5v5 custom games with other features to aid the custom 5v5 process.
 
 ## Installation
-Invite the bot to your server using "https://discord.com/api/oauth2/authorize?client_id=985802386771673109&permissions=274878040128&scope=bot" and accept permissions request. 
+Invite the bot to your server using "" and accept permissions request. 
 
 ## Usage
 This bot is used to help ease the process in creating custom 5v5 matches in Rainbow Six Siege by creating random teams, randomly selecting a map, and other things like playing ranked or unranked. The primary functions are:
