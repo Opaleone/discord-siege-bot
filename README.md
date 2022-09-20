@@ -15,7 +15,7 @@ This bot is used to help ease the process in creating custom 5v5 matches in Rain
 
 #### For personal use:
 
-* ?nitro - tells us if our buddy Hemmie49 will get nitro'ed this round.
+* ?nitro - tells you if you will get nitro'ed this round.
 * ?hatch - tells Hemmie49 whether to drop the hatch or not.
 
 ## Credits
